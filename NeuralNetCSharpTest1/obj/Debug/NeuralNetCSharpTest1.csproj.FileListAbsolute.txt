@@ -1,0 +1,24 @@
+c:\users\massimo\documents\visual studio 2015\Projects\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.exe.config
+c:\users\massimo\documents\visual studio 2015\Projects\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.exe
+c:\users\massimo\documents\visual studio 2015\Projects\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.pdb
+c:\users\massimo\documents\visual studio 2015\Projects\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.csprojResolveAssemblyReference.cache
+c:\users\massimo\documents\visual studio 2015\Projects\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.exe
+c:\users\massimo\documents\visual studio 2015\Projects\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.pdb
+C:\Users\Massimo\Desktop\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.exe.config
+C:\Users\Massimo\Desktop\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.exe
+C:\Users\Massimo\Desktop\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.pdb
+C:\Users\Massimo\Desktop\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.exe
+C:\Users\Massimo\Desktop\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.pdb
+C:\Users\Massimo\Desktop\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.csprojResolveAssemblyReference.cache
+D:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.exe.config
+D:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.exe
+D:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.pdb
+D:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.exe
+D:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.pdb
+D:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.csprojResolveAssemblyReference.cache
+E:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.exe.config
+E:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.exe
+E:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.pdb
+E:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.exe
+E:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\bin\Debug\NeuralNetCSharpTest1.pdb
+E:\New folder\NeuralNetCSharpTest1\NeuralNetCSharpTest1\obj\Debug\NeuralNetCSharpTest1.csprojResolveAssemblyReference.cache
